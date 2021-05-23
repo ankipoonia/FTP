@@ -1,2 +1,3 @@
 # FTP
-This was our group project of implementing the FTP over two host.We have used Python and OS library for converting any ﬁle into streams of bytes and then sending it to the other host via TCP/IP connection.
+This was our group project to implement the File Transfer Protcol.We used Python Lnaguage to implement FTP. There are two files one is for server and other one will act as client.
+Other member of group was [Ravi Kishan](https://github.com/ravikishandaiya).
