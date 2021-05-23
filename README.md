@@ -1,6 +1,6 @@
 # FTP
 This was our group project to implement the File Transfer Protcol.We used Python Lnaguage to implement FTP. There are two files one is for server and other one will act as client.
-Other member of group was [Ravi Kishan](https://github.com/ravikishandaiya).
+Our group made of two members adding Me and [Ravi Kishan](https://github.com/ravikishandaiya).
 ----
 ### Key Functionalities
 > Client is Allowed to perform following operations:
